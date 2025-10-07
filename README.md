@@ -1,4 +1,13 @@
 # Student-Management-system
+<img width="1919" height="842" alt="Screenshot 2025-10-07 112819" src="https://github.com/user-attachments/assets/6663879b-3dbb-426f-a9b0-b9e61d545c1a" />
+
+<img width="1919" height="844" alt="Screenshot 2025-10-07 112805" src="https://github.com/user-attachments/assets/b910a9eb-f82a-4368-8e73-a2a86a7ee38b" />
+
+<img width="1919" height="845" alt="Screenshot 2025-10-07 112753" src="https://github.com/user-attachments/assets/feaa6104-ebee-49df-a25a-0155578d718c" />
+
+<img width="1919" height="844" alt="Screenshot 2025-10-07 112735" src="https://github.com/user-attachments/assets/d600adb4-0716-4e6a-9498-05fe6a0d2bbe" />
+
+<img width="1919" height="843" alt="Screenshot 2025-10-07 113131" src="https://github.com/user-attachments/assets/f654ce51-f54a-4802-8d00-3c8a0d6aeef7" />
 
 EduManage — Student Management System
 
